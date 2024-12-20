@@ -24,6 +24,14 @@
     "cli"
   ],
   "author": "kuraa",
+  "homepage": "https://kuraa.cc/archives/img2webp-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://git.kuraa.cc/kura/img2webp-cli"
+  },
+  "bugs": {
+    "url": "https://git.kuraa.cc/kura/img2webp-cli/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0"

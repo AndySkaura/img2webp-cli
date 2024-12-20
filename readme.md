@@ -1,8 +1,6 @@
 # img2webp-cli
 
 用于将当前目录下所有图像转换为 WebP 格式的命令行工具，带有递归处理子目录与压缩质量选择的功能，使用 WASM 进行处理。
-
-
 [English](./readme_en.md)
 [中文](./readme.md)
 
