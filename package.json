@@ -1,6 +1,6 @@
 {
   "name": "img2webp-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert images to WebP format using WASM in cli",
   "type": "module",
   "bin": {
@@ -13,7 +13,8 @@
   },
   "files": [
     "bin",
-    "wasm"
+    "wasm",
+    "index.js"
   ],
   "keywords": [
     "image",
