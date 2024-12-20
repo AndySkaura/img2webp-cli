@@ -27,10 +27,10 @@
   "homepage": "https://kuraa.cc/archives/img2webp-cli",
   "repository": {
     "type": "git",
-    "url": "https://git.kuraa.cc/kura/img2webp-cli"
+    "url": "https://github.com/AndySkaura/img2webp-cli"
   },
   "bugs": {
-    "url": "https://git.kuraa.cc/kura/img2webp-cli/issues"
+    "url": "https://github.com/AndySkaura/img2webp-cli/issues"
   },
   "license": "MIT",
   "dependencies": {
