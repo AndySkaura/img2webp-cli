@@ -1,0 +1,31 @@
+{
+  "name": "img2webp-cli",
+  "version": "1.0.0",
+  "description": "Convert images to WebP format using WASM in cli",
+  "type": "module",
+  "bin": {
+    "cp2webp": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node bin/cli.js -i ./test -o ./output",
+    "goGlobal": "npm link",
+    "testGlobal": "cp2webp -i /Users/kura/Downloads/PC端图标 -o /Users/kura/Downloads/PC端图标/output -r 2"
+  },
+  "files": [
+    "bin",
+    "wasm"
+  ],
+  "keywords": [
+    "image",
+    "webp",
+    "compression",
+    "wasm",
+    "convert",
+    "cli"
+  ],
+  "author": "kuraa",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
